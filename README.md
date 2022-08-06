@@ -7,4 +7,4 @@
 ## Team Members
 
 - Alex
-- Chris
+- Chris Predovich
